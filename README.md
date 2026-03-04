@@ -1,7 +1,11 @@
 # Ecommerce-Sales-Analysis-Dashboard
 
-Analyzing different sales trend based on the given dataset using Dashboard.
+This project involves a comprehensive analysis of an Ecommerce dataset to identify key sales drivers and consumer behavior. Using Advanced Excel and Data Modeling techniques, I transformed four distinct data tables into a centralized "Command Center" that visualizes performance across stores, regions, and product categories.
 
-The given Dataset contains four sheets and four tables such as Customer table, Product table, Store table and Sales fact table each containing many rows and columns
+Key Insights Gathered
 
-  The Ecommerce-Sales were analyzed and insights gathered.
+Regional Performance: Identified top-performing store locations and regions with the highest customer lifetime value.
+
+Product Trends: Isolated underperforming product categories to suggest inventory optimization.
+
+Seasonality: Tracked sales peaks over time to help forecast demand for future quarters.
