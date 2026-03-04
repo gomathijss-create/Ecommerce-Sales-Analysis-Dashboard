@@ -1,8 +1,9 @@
 # Ecommerce-Sales-Analysis-Dashboard
+## Project Overview
 
 This project involves a comprehensive analysis of an Ecommerce dataset to identify key sales drivers and consumer behavior. Using Advanced Excel and Data Modeling techniques, I transformed four distinct data tables into a centralized "Command Center" that visualizes performance across stores, regions, and product categories.
 
-Key Insights Gathered
+## Key Insights Gathered
 
 Regional Performance: Identified top-performing store locations and regions with the highest customer lifetime value.
 
