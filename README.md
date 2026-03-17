@@ -11,9 +11,8 @@
 
 ## 📊 Project Overview
 
-Analyzing different sales trend based on the given dataset using Dashboard.
 
-The given Dataset contains four tables such as Customer table, Product table, Store table and Sales fact table each containing 2000 records.
+Developed an interactive sales dashboard using Excel Pivot Tables and Slicers to analyze regional performance and product trends.
 
 
 ## 🗂️ Data Source
@@ -27,7 +26,12 @@ The given Dataset contains four tables such as Customer table, Product table, St
 ## 🛠️ Tools & Technologies
 
 
-- **Visualization:** MS Excel 
+- **Visualization:** MS Excel
+  
+ - Pivot Tables & Pivot Charts
+
+ - Interactive Slicers
+ 
 - **Documentation:** MS Word
 
 
